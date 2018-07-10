@@ -1,0 +1,11 @@
+{
+  "pages":[
+    "pages/index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#303538",
+    "navigationBarTitleText": "孙智勇个人简历",
+    "navigationBarTextStyle":"light"
+  }
+}
