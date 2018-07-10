@@ -110,4 +110,4 @@ module.exports = LocalData
 希望通过这个小项目能对您有所帮助，祝您早日找到自己心仪的工作。<br/>
 如果对您有所帮助，请在右上角给我一个 ***Star***
 ## 小程序学习链接
-[微信小程序简易教程]（https://developers.weixin.qq.com/miniprogram/dev/）
+[微信小程序简易教程]（https://developers.weixin.qq.com/miniprogram/dev/ )
