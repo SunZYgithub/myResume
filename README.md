@@ -7,8 +7,8 @@
 ## 使用方法
 将代码down下来（`git clone https://github.com/SunZYgithub/myResume`），使用`微信开发者工具`打开,找到
 * utils  
-  * LocalData.js<br>
-data配置项文件，修改为你自己的数据即可。<br/><br/>
+  * LocalData.js<br/>
+**LocalData.js为数据配置项文件，修改为你自己的数据即可（注意改成自己的appId,images/img文件夹删除即可）。**<br/><br/>
 ![](https://github.com/SunZYgithub/myResume/raw/master/images/img/data.png "配置文件位置")
 ## 配置文件说明
 ```{
